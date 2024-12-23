@@ -1,5 +1,5 @@
 // API Stuff
-const apiKey = '111dc5a843628c7d2c8df200'
+const apiKey = "oops can't share this"
 const apiUrl = 'https://v6.exchangerate-api.com/v6'
 
 
